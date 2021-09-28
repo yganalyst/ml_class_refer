@@ -17,3 +17,9 @@ https://stackoverflow.com/questions/38592324/one-hot-encoding-using-numpy
 https://mlfromscratch.com/neural-network-tutorial/#/  
 https://zhenye-na.github.io/2018/09/09/build-neural-network-with-mnist-from-scratch.html  
 => neural network 직접 구현 2개  
+
+https://huangdi.tistory.com/8  
+=> he initialization 참고  
+
+https://towardsdatascience.com/coding-a-2-layer-neural-network-from-scratch-in-python-4dd022d19fd2  
+=> ReLU backpropogation 참고  
