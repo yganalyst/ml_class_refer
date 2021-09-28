@@ -13,3 +13,7 @@ https://tobigs.gitbook.io/tobigs/data-analysis/undefined-1/python-1
 
 https://stackoverflow.com/questions/38592324/one-hot-encoding-using-numpy   
 => array onehot encoding 하기  
+
+https://mlfromscratch.com/neural-network-tutorial/#/  
+https://zhenye-na.github.io/2018/09/09/build-neural-network-with-mnist-from-scratch.html  
+=> neural network 직접 구현 2개  
