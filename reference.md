@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=tUXfxaB3EHs
 
 https://stackoverflow.com/questions/28805028/function-name-is-undefined-in-python-class  
 => class에서 function 을 사용할때 self를 써야 인식한다.  
+
+https://tobigs.gitbook.io/tobigs/data-analysis/undefined-1/python-1  
+=> logistic regression gradient descent 구현  
