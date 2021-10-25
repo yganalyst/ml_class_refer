@@ -1,4 +1,6 @@
 
+### HW 1 (Knn, Neural Network, etc..)  
+
 https://developers.google.com/machine-learning/clustering/similarity/check-your-understanding  
 => similarity metric 개념 (dot product metric을 쓰면 좋은 경우)  
   
@@ -23,3 +25,10 @@ https://huangdi.tistory.com/8
 
 https://towardsdatascience.com/coding-a-2-layer-neural-network-from-scratch-in-python-4dd022d19fd2  
 => ReLU backpropogation 참고  
+  
+  
+### HW 2 (Image classification & object detection)  
+
+https://deep-learning-study.tistory.com/142  
+=> gaussian smoothing 적용을 위한 OpenCV , cv2.fiter2D  
+
