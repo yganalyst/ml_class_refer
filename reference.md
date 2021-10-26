@@ -32,3 +32,5 @@ https://towardsdatascience.com/coding-a-2-layer-neural-network-from-scratch-in-p
 https://deep-learning-study.tistory.com/142  
 => gaussian smoothing 적용을 위한 OpenCV , cv2.fiter2D  
 
+https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/filters/gaussian_filter.py   
+=> gaussian smoothing source code reference  
