@@ -34,3 +34,6 @@ https://deep-learning-study.tistory.com/142
 
 https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/filters/gaussian_filter.py   
 => gaussian smoothing source code reference  
+
+https://www.py4u.net/discuss/183648  
+=> gaussian 1d filter의 외적곱(np.outer)으로 2d filter를 만들 수 있음  
