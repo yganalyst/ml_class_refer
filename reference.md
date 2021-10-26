@@ -37,3 +37,7 @@ https://github.com/TheAlgorithms/Python/blob/master/digital_image_processing/fil
 
 https://www.py4u.net/discuss/183648  
 => gaussian 1d filter의 외적곱(np.outer)으로 2d filter를 만들 수 있음  
+
+https://youngest-programming.tistory.com/235  
+=> gaussian filter  
+
