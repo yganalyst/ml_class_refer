@@ -53,4 +53,5 @@ https://www.tensorflow.org/tutorials/customization/custom_layers?hl=ko
 => "__init__" call의 tensorflow 구조  
 
 https://velog.io/@minkyu4506/Faster-R-CNN-%EB%A6%AC%EB%B7%B0-with-Code  
+https://wolfy.tistory.com/258  
 => Faster R-CNN 구현 친절한 설명  
