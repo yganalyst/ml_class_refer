@@ -46,10 +46,11 @@ https://mypark.tistory.com/37
 https://eremo2002.tistory.com/76  
 => ResNet50 python 구현 예제  
 
-
 https://github.com/RockyXu66/Faster_RCNN_for_Open_Images_Dataset_Keras/blob/master/frcnn_train_vgg.ipynb  
 => Faster R-CNN 구현 source   
 
 https://www.tensorflow.org/tutorials/customization/custom_layers?hl=ko   
 => "__init__" call의 tensorflow 구조  
- 
+
+https://velog.io/@minkyu4506/Faster-R-CNN-%EB%A6%AC%EB%B7%B0-with-Code  
+=> Faster R-CNN 구현 친절한 설명  
