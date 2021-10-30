@@ -55,3 +55,6 @@ https://www.tensorflow.org/tutorials/customization/custom_layers?hl=ko
 https://velog.io/@minkyu4506/Faster-R-CNN-%EB%A6%AC%EB%B7%B0-with-Code  
 https://wolfy.tistory.com/258  
 => Faster R-CNN 구현 친절한 설명  
+
+https://towardsdatascience.com/non-maxima-suppression-139f7e00f0b5  
+=> non maximum suppression python source  
