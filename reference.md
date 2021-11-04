@@ -65,3 +65,6 @@ https://towardsdatascience.com/non-maxima-suppression-139f7e00f0b5
 https://supermemi.tistory.com/69  
 => argparse  
 
+https://chibychi.blogspot.com/2019/06/python-basic-1-input-output-string.html  
+=> %010d : 출력되는 field의 넓이를 10으로 하고 나머지를 0으로 채운다  
+
