@@ -59,7 +59,20 @@ https://wolfy.tistory.com/258
 https://towardsdatascience.com/non-maxima-suppression-139f7e00f0b5  
 => non maximum suppression python source  
 
+
+### HW 3 (Image segmentation & Vedio action Recognition)  
+https://idiotdeveloper.com/unet-implementation-in-tensorflow-using-keras-api/  
+https://github.com/milesial/Pytorch-UNet/blob/master/unet/unet_model.py  
+=> U-Net architecture implementation  
+
+https://docs.opencv.org/2.4/modules/highgui/doc/reading_and_writing_images_and_video.html  
+=> OpenCV docs  
   
+https://stackoverflow.com/questions/33523751/getting-specific-frames-from-videocapture-opencv-in-python  
+https://velog.io/@bangsy/Python-OpenCV3  
+=> OpenCV, VideoCapture, get, set : video의 frame수 계산 및 sampling 하기  
+
+
 ---
 ### Project  
 https://supermemi.tistory.com/69  
