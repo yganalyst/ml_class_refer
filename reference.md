@@ -78,7 +78,8 @@ https://note.nkmk.me/en/python-opencv-bgr-rgb-cvtcolor/
 https://stackoverflow.com/questions/58887056/resize-frame-of-cv2-videocapture  
 => frame resize  
 
-
+https://stackoverflow.com/questions/38025838/normalizing-images-in-opencv  
+=> Normalize 할때 float type으로 바꿔야함  
 
 ---
 ### Project  
