@@ -87,6 +87,9 @@ https://velog.io/@riverdeer/TFRecord-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%9
 https://engineer-mole.tistory.com/212   
 => tfrecord 파일 읽기(byte 지정)  
 
+https://github.com/kylemin/S3D/blob/master/model.py  
+=> Seperable 3D CNN (S3D) python 구현  
+
 ---
 ### Project  
 https://supermemi.tistory.com/69  
