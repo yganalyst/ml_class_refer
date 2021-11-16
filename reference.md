@@ -84,6 +84,9 @@ https://stackoverflow.com/questions/38025838/normalizing-images-in-opencv
 https://velog.io/@riverdeer/TFRecord-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0   
 => tensorflow tfrecord 활용법  
 
+https://engineer-mole.tistory.com/212   
+=> tfrecord 파일 읽기(byte 지정)  
+
 ---
 ### Project  
 https://supermemi.tistory.com/69  
