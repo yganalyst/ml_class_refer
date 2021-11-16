@@ -72,6 +72,13 @@ https://stackoverflow.com/questions/33523751/getting-specific-frames-from-videoc
 https://velog.io/@bangsy/Python-OpenCV3  
 => OpenCV, VideoCapture, get, set : video의 frame수 계산 및 sampling 하기  
 
+https://note.nkmk.me/en/python-opencv-bgr-rgb-cvtcolor/   
+=> 기존 openCV format인 BGR을 RGB로 변경  
+
+https://stackoverflow.com/questions/58887056/resize-frame-of-cv2-videocapture  
+=> frame resize  
+
+
 
 ---
 ### Project  
