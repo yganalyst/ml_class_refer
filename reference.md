@@ -81,6 +81,9 @@ https://stackoverflow.com/questions/58887056/resize-frame-of-cv2-videocapture
 https://stackoverflow.com/questions/38025838/normalizing-images-in-opencv  
 => Normalize 할때 float type으로 바꿔야함  
 
+https://velog.io/@riverdeer/TFRecord-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EA%B3%A0-%EC%93%B0%EA%B8%B0   
+=> tensorflow tfrecord 활용법  
+
 ---
 ### Project  
 https://supermemi.tistory.com/69  
