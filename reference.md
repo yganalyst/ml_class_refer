@@ -100,3 +100,5 @@ https://kwonkyo.tistory.com/234
 https://chibychi.blogspot.com/2019/06/python-basic-1-input-output-string.html  
 => %010d : 출력되는 field의 넓이를 10으로 하고 나머지를 0으로 채운다  
 
+https://stackoverflow.com/questions/55613518/how-does-the-applyfn-function-in-pytorch-work-with-a-function-without-return-s  
+=> module.apply 객체 pytorch  
