@@ -95,6 +95,9 @@ https://github.com/kylemin/S3D/blob/master/model.py
 https://supermemi.tistory.com/69  
 => argparse  
 
+https://greeksharifa.github.io/references/2019/02/12/argparse-usage/  
+=> argparse 사용법 (파라미터 수정)  
+
 https://kwonkyo.tistory.com/234  
 => magic method  
 https://chibychi.blogspot.com/2019/06/python-basic-1-input-output-string.html  
