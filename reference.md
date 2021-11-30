@@ -92,8 +92,8 @@ https://github.com/kylemin/S3D/blob/master/model.py
 
 ### HW 4 (Vision Transformer, Triplet loss)
 
-
-
+https://omoindrot.github.io/triplet-loss  
+=> triplet loss implementation  
 
 https://keras.io/examples/vision/image_classification_with_vision_transformer/#implement-the-patch-encoding-layer  
 => vision transformer (keras exmample)  
