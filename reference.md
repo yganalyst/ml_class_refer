@@ -90,6 +90,28 @@ https://engineer-mole.tistory.com/212
 https://github.com/kylemin/S3D/blob/master/model.py  
 => Seperable 3D CNN (S3D) python 구현  
 
+### HW 4 (Vision Transformer, Triplet loss)
+
+
+
+
+https://keras.io/examples/vision/image_classification_with_vision_transformer/#implement-the-patch-encoding-layer  
+=> vision transformer (keras exmample)  
+
+https://dev-woong.tistory.com/38  
+https://github.com/emla2805/vision-transformer/blob/master/model.py  
+https://github.com/keras-team/keras-io/blob/master/examples/vision/image_classification_with_vision_transformer.py  
+=> vision transformer (implementation)  
+
+http://dmqm.korea.ac.kr/activity/seminar/316  
+=> Vision transformer 세미나  
+
+https://engineer-mole.tistory.com/133  
+https://kmhana.tistory.com/27  
+https://towardsdatascience.com/vision-transformers-or-convolutional-neural-networks-both-de1a2c3c62e4  
+https://viso.ai/deep-learning/vision-transformer-vit/  
+=> Paper review & article  
+
 ---
 ### Project  
 https://supermemi.tistory.com/69  
