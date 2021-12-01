@@ -127,3 +127,6 @@ https://chibychi.blogspot.com/2019/06/python-basic-1-input-output-string.html
 
 https://stackoverflow.com/questions/55613518/how-does-the-applyfn-function-in-pytorch-work-with-a-function-without-return-s  
 => module.apply 객체 pytorch  
+
+https://coding-factory.tistory.com/500  
+=> linux 기본 명령어  
